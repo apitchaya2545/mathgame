@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@600&display=swap');
+*{
+    font-family: 'Noto Serif Thai', serif;
+}
+.title1{
+    background-color: #64CCC5 ;
+    height: 120px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 3px solid #97FEED;
+}
+.name1{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #071952;
+    font-size: 30px;
+}
+.btstart{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: flex-start;
+}
+.frame01{
+    border: 2px solid #1D5B79;
+    background-color: aquamarine;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 20px;
+    display: flex;
+    width: 500px;
+}
+.box{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.operator{
+    font-weight: bold;
+}
+.bt{
+    margin-top: 20px;
+}
+.btans{
+    margin-top: 20px;
+}
+.box{
+    border-color: #071952;
+}
+.score{
+    font-size: 20px;
+}
+.status{
+    height: 70px;
+}
+.statusanswer{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: red;
+}
